@@ -1,0 +1,10 @@
+﻿  Считалка Иосифа.cpp
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(19,1): error C2280:  "NoncopyableInt &NoncopyableInt::operator =(const NoncopyableInt &)": предпринята попытка ссылки на удаленную функцию
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(58): message :   см. объявление "NoncopyableInt::operator ="
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(58,18): message :  "NoncopyableInt &NoncopyableInt::operator =(const NoncopyableInt &)": функция явно удалена.
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void MakeJosephusPermutation<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(RandomIt,RandomIt,uint32_t)"
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :         with
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :         [
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :             _Ty=NoncopyableInt,
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :             RandomIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<NoncopyableInt>>>
+C:\Users\USER\Desktop\coursera\5 неделя\Считалка Иосифа\Считалка Иосифа\Считалка Иосифа.cpp(80): message :         ]

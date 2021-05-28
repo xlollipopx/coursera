@@ -1,0 +1,53 @@
+﻿  Paginator.cpp
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(44,2): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :  во время компиляции функции-члена класс шаблон "Paginator<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>>::Paginator(Iterator,Iterator,size_t)"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :             _Elem=char,
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :             Iterator=std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(41): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :  выполняется компиляция ссылки на экземпляр шаблон функции "Paginator<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>>::Paginator(Iterator,Iterator,size_t)"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :             _Elem=char,
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :             Iterator=std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Paginator<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>>"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :             _Elem=char
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :  выполняется компиляция ссылки на экземпляр шаблон функции "Paginator<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>> Paginate<const std::string>(C &,size_t)"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :             _Elem=char,
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :             C=const std::string
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(130): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(116): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Paginator<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>>"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(116): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(116): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(116): message :             _Elem=char
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(116): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Paginator<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :             _Ty=std::string
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :  выполняется компиляция ссылки на экземпляр шаблон функции "Paginator<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>> Paginate<std::vector<_Ty,std::allocator<_Ty>>>(C &,size_t)"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :             _Ty=std::string,
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :             C=std::vector<std::string,std::allocator<std::string>>
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(103): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Paginator<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :             _Ty=int
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(69): message :         ]
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :  выполняется компиляция ссылки на экземпляр шаблон функции "Paginator<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>> Paginate<std::vector<_Ty,std::allocator<_Ty>>>(C &,size_t)"
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :         with
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :         [
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :             _Ty=int,
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :             C=std::vector<int,std::allocator<int>>
+C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Paginator\Paginator.cpp(76): message :         ]
+  Paginator.vcxproj -> C:\Users\USER\Desktop\coursera\1 неделя\Paginator\Debug\Paginator.exe

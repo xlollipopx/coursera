@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Электоронная книга", "Электоронная книга\Электоронная книга.vcxproj", "{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Debug|x64.ActiveCfg = Debug|x64
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Debug|x64.Build.0 = Debug|x64
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Debug|x86.ActiveCfg = Debug|Win32
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Debug|x86.Build.0 = Debug|Win32
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Release|x64.ActiveCfg = Release|x64
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Release|x64.Build.0 = Release|x64
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Release|x86.ActiveCfg = Release|Win32
+		{12DC77CE-FD01-4FA4-94CC-CF5D99B11B53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26084B0-D553-474F-8D60-A4A731F9B4E0}
+	EndGlobalSection
+EndGlobal
